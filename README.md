@@ -77,3 +77,48 @@ Uma calculadora simples e funcional desenvolvida com **HTML**, **CSS** e **JavaS
 ## 📸 Preview | Prévia
 
 > ![Calculator](https://github.com/user-attachments/assets/8d1374c2-7c0a-4dd0-a17e-a9eb9eb42832)
+
+---
+
+# 💻 Step-by-Step: Cloning a GitHub Repository with Git
+
+## Prerequisites
+
+Make sure you have **Git** installed on your machine.
+
+## Step 1: Locate the Repository on GitHub
+
+* Access GitHub and navigate to the page of the repository you want to clone.
+
+* Look for the green button that says **"Code"**.
+
+## Step 2: Copy the Cloning URL
+
+* Click the **"Code"** button.
+
+* You will see several options (HTTPS, SSH, GitHub CLI). For most users, the simplest way is **HTTPS**.
+
+* Copy the URL that appears in the HTTPS field (e.g., `https://github.com/username/repo.git`).
+
+## Step 3: Open the Terminal (or Command Prompt)
+
+Open your terminal, Command Prompt (Windows), or PowerShell.
+
+## Step 4: Navigate to the Desired Directory
+
+Use the `cd` (change directory) command to go to the folder where you want the project to be saved on your machine.
+
+**Example:**
+
+```bash
+cd ~/Documents/Projects
+
+```
+
+## Step 5: Execute the git clone command
+Use the git clone command followed by the URL you copied in Step 2.
+
+## Step 6: Verify the Cloning and Access the Folder
+Git will create a new folder with the repository name (or the name you specified) and download all the code to it.
+
+* Done! The repository has been cloned and you can start working on the code.
