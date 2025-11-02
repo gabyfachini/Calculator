@@ -51,28 +51,28 @@ Uma calculadora simples e funcional desenvolvida com **HTML**, **CSS** e **JavaS
 
 ---
 
-# 💻 Passo a Passo: Clonar Repositório no GitHub com Git
+## 💻 Passo a Passo: Clonar Repositório no GitHub com Git
 
-## Pré-requisitos
+### Pré-requisitos
 
 Certifique-se de que você tem o **Git** instalado na sua máquina.
 
-## Passo 1: Localize o Repositório no GitHub
+### Passo 1: Localize o Repositório no GitHub
 
 * Acesse o GitHub e navegue até a página do repositório que você deseja clonar.
 * Procure pelo botão verde que diz **"Code"** (Código).
 
-## Passo 2: Copie a URL de Clonagem
+### Passo 2: Copie a URL de Clonagem
 
 * Clique no botão **"Code"**.
 * Você verá algumas opções (HTTPS, SSH, GitHub CLI). Para a maioria dos usuários, a forma mais simples é **HTTPS**.
 * Copie a URL que aparece no campo do HTTPS (ex: `https://github.com/usuario/repo.git`).
 
-## Passo 3: Abra o Terminal (ou Prompt de Comando)
+### Passo 3: Abra o Terminal (ou Prompt de Comando)
 
 Abra o seu terminal, Prompt de Comando (Windows) ou PowerShell.
 
-## Passo 4: Navegue até o Diretório Desejado
+### Passo 4: Navegue até o Diretório Desejado
 
 Use o comando `cd` (change directory) para ir para a pasta onde você quer que o projeto seja salvo na sua máquina.
 
@@ -82,10 +82,9 @@ Use o comando `cd` (change directory) para ir para a pasta onde você quer que o
 cd ~/Documentos/Projetos
 ```
 
-## Passo 5: Execute o Comando git clone
+### Passo 5: Execute o Comando git clone
 Use o comando git clone seguido da URL que você copiou no Passo 2.
 
-## Passo 6: Verifique a Clonagem e Acesse a Pasta
+### Passo 6: Verifique a Clonagem e Acesse a Pasta
 O Git criará uma nova pasta com o nome do repositório (ou o nome que você especificou) e baixará todo o código para ela.
-
-* Pronto! O repositório foi clonado e você pode começar a trabalhar no código.
+Pronto! O repositório foi clonado e você pode começar a trabalhar no código.
